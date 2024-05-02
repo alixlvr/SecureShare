@@ -18,7 +18,7 @@ export default function Home() {
               <Image src={"/number_three.png"} alt={"icone trois"} width={20} height={20}/>
               <div>Récupérez votre fichier</div>
           </div>
-          <div className="justify-center">
+          <div className="justify-center items-center">
               <div className="p-6">
                 <span>
                     Cherchez votre fichier localement sur votre ordinateur
